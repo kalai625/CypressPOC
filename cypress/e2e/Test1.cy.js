@@ -6,7 +6,7 @@ describe('template spec', () => {
   })
 
   it('should display the homepage', () => {
-   console.log("print 2")
+   console.log("print 2") 
   })
 
 })
